@@ -38,7 +38,9 @@ REFERENCES:
 
 U-net model:  https://github.com/zhixuhao/unet
 
-              https://github.com/bnsreenu/python_for_microscopists
+U-net model:  https://github.com/bnsreenu/python_for_microscopists
 
 Lung dataset: https://www.kaggle.com/nikhilpandey360/chest-xray-masks-and-labels
+
+TEFPA framework by Dr.Ngô Quốc Hưng (hung.ngo@cot.ai)
 
